@@ -1,0 +1,18 @@
+.morelink{
+    width: 68%;
+    max-width: 68%;
+    margin: 30px auto;
+    .listIteam{
+        li{
+            display: inline-block;
+            margin-right: 10px;
+            text-align: center;
+            img{
+                border-radius: 15px; 
+                width: 151px;
+                height:200px;  
+               }
+        }
+    }
+    
+}

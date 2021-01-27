@@ -1,0 +1,28 @@
+.play-series-main{
+    padding-top: 11.5%;
+    .no-gutters{
+        width: 68%;
+        max-width: 68%;
+        margin: 0 auto;
+        img{
+            width: 220px;
+            height: 320px;
+           border-radius: 15px;   
+           }
+        .card-block{
+            padding-top: 20.5%;
+            .text-gold{
+                color: #fcc537;
+            }
+            .actionbtn{
+                font-size: 0.7rem;
+                background-color: #bda332;
+                opacity: 0.3;
+                color: #fff;
+                padding: 5px 19px;
+                border-radius: 4px;
+            }
+        }
+    }
+    
+}

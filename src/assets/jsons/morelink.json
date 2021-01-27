@@ -1,0 +1,30 @@
+{
+    "listtitle": "More Like This",
+     "products": [
+        {
+            "title": "El Camino",
+            "subtitle": "TV-MA | Action, Crime",
+            "src":"assets/img/breaking-bad-thubnail.jpg"
+        },
+        {
+            "title": "Better Call Saul",
+            "subtitle": "TV-MA | Crime, Drama",
+            "src":"assets/img/img2.jpg"
+        },
+        {
+            "title": "The Parts You Lose",
+            "subtitle": "Movie | Drama, Thriller",
+            "src":"assets/img/breaking-bad-thubnail.jpg"
+        },
+        {
+            "title": "Need For Speed",
+            "subtitle": "Movie | Action, Crime",
+            "src":"assets/img/img2.jpg"
+        },
+        {
+            "title": "Need For Speed",
+            "subtitle": "Movie | Action, Crime",
+            "src":"assets/img/breaking-bad-thubnail.jpg"
+        }
+    ]
+}

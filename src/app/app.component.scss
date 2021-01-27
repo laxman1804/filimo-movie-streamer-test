@@ -1,0 +1,19 @@
+.main-wrapper {
+  background-color: #111320 !important;
+  .main-background {
+    background: #111320 url("../assets/img/breathingbackground_new.jpg") no-repeat;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-size: cover;
+    background-position: center;
+    height: 630px;
+    width: 100%;
+    .blur {
+      backdrop-filter: blur(15px); // This be the blur
+      height: 630px;
+      width: 100%;
+    }
+  }
+  
+}

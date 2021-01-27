@@ -1,0 +1,17 @@
+<div class="morelink">
+    <h4 class="text-white pb-5" *ngIf="products">{{products.listtitle}}</h4>
+
+    <div class="listIteam">
+        <ul>
+            <li *ngFor="let product of products?.products">
+                <div>
+                    <img src="{{product.src}}">
+                </div>  
+                <h5 class="text-white pb-1 pt-2">{{product.title}}</h5>
+                <p class="text-white pb-5" *ngIf="products.listtitle == 'More Like This'">{{product.title}}</p>
+            </li>
+           
+        </ul>
+    </div>
+</div>
+

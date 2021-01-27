@@ -1,0 +1,30 @@
+{
+  "listtitle": "Episodes",
+  "products": [
+    {
+      "title": "Episode 1",
+      "subtitle": "TV-MA | Action, Crime",
+      "src":"assets/img/breaking-bad-thubnail.jpg"
+    },
+    {
+      "title": "Episode 2",
+      "subtitle": "TV-MA | Crime, Drama",
+      "src":"assets/img/img2.jpg"
+    },
+    {
+      "title": "Episode 3",
+      "subtitle": "Movie | Drama, Thriller",
+      "src":"assets/img/breaking-bad-thubnail.jpg"
+    },
+    {
+      "title": "Episode 4",
+      "subtitle": "Movie | Action, Crime",
+      "src":"assets/img/img2.jpg"
+    },
+    {
+      "title": "Episode 5",
+      "subtitle": "Movie | Action, Crime",
+      "src":"assets/img/breaking-bad-thubnail.jpg"
+    }
+    ]
+  }
